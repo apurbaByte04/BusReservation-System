@@ -1,4 +1,4 @@
-# 🚌 Bus Reservation System
+# Bus Reservation System
 
 ## Overview
 A console-based Bus Reservation System developed in C.
